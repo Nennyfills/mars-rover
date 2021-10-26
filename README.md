@@ -36,3 +36,36 @@ Expected Output:
 Rover1:1 3 N
 Rover2:5 1 E
 ```
+
+# Installing
+To get the project running, follow these steps:
+- Create a folder
+-Enter/Navigate into that folder
+```
+cd <folder-name>
+```
+- Clone this repository:
+```
+git clone https://github.com/nennyfills/mars-rover.git .
+```
+
+- Install all the project's dependencies:
+```
+yarn or npm install
+```
+- Once that's done, run the project:
+```
+npm start or yarn start
+```
+
+- Run test:
+```
+npm run test or yarn run test
+```
+# Built With
+- Javascript
+- Node.js
+- JavaScript
+- Babel
+- Mocha
+- Chai
